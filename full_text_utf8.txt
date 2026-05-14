@@ -1,0 +1,577 @@
+﻿
+REPARA+
+Lda.
+ 
+
+PLANO DE NEGÃ“CIO
+ReparaÃ§Ã£o e Recondicionamento de Dispositivos EletrÃ³nicos
+
+Empresa
+Repara+ Lda.
+LocalizaÃ§Ã£o
+Tomar (junto ao IPT)
+Setor
+ReparaÃ§Ã£o de Dispositivos EletrÃ³nicos
+Ano de InÃ­cio
+2025
+SÃ³cios Fundadores
+3 Engenheiros InformÃ¡ticos
+1. SumÃ¡rio Executivo
+A Repara+ Lda. Ã© uma empresa de reparaÃ§Ã£o, recondicionamento e comÃ©rcio de dispositivos eletrÃ³nicos, fundada por trÃªs licenciados em Engenharia InformÃ¡tica do Instituto PolitÃ©cnico de Tomar (IPT). O negÃ³cio nasceu da identificaÃ§Ã£o de uma necessidade real e crescente no mercado local: a falta de uma alternativa de reparaÃ§Ã£o tÃ©cnica de qualidade, transparente e economicamente acessÃ­vel.
+A empresa opera com um modelo de negÃ³cio tripartido: (1) serviÃ§os de reparaÃ§Ã£o de telemÃ³veis, computadores e tablets com orÃ§amento prÃ©vio gratuito; (2) aquisiÃ§Ã£o de dispositivos irreparÃ¡veis aos clientes, em dinheiro ou crÃ©dito de loja, transformando-os em matÃ©ria-prima para peÃ§as e recondicionados; e (3) venda de acessÃ³rios e equipamentos recondicionados a preÃ§os competitivos.
+A Repara+ distingue-se da concorrÃªncia atravÃ©s de trÃªs pilares fundamentais: competÃªncia tÃ©cnica avanÃ§ada (microssoldadura, impressÃ£o 3D, reparaÃ§Ã£o ao nÃ­vel do componente), transparÃªncia absoluta nos preÃ§os, e um modelo de fidelizaÃ§Ã£o inovador baseado em crÃ©dito de loja e sistema de Lootboxes exclusivo para clientes recorrentes.
+O mercado-alvo abrange trÃªs segmentos principais: estudantes do IPT com necessidades tecnolÃ³gicas urgentes e orÃ§amento limitado, microempresas da regiÃ£o de Tomar e da NabÃ¢ncia, e cidadÃ£os de baixo rendimento e pensionistas, atendidos com responsabilidade social e descontos especiais.
+
+Pontos Chave do NegÃ³cio
+Indicadores Previstos (Ano 1)
+DiagnÃ³stico e orÃ§amento gratuito
+Sistema de retoma de equipamentos
+Lootboxes para clientes com crÃ©dito
+Aluguer de equipamento substituto
+Desconto 15% para estudantes IPT
+Desconto 35% para pensionistas
+ReparaÃ§Ãµes mensais previstas: 
+~80â€“120
+Ticket mÃ©dio de reparaÃ§Ã£o: 
+~45â‚¬
+Volume de negÃ³cios (Ano 1): 
+~50.000â‚¬
+Ponto de equilÃ­brio estimado: 
+Ano 2
+NÃºmero de colaboradores: 
+3 sÃ³cios
+2. ApresentaÃ§Ã£o do NegÃ³cio
+2.1. DescriÃ§Ã£o da Oportunidade
+O mercado de reparaÃ§Ã£o de dispositivos eletrÃ³nicos em Portugal encontra-se num momento de expansÃ£o estrutural, impulsionado por trÃªs forÃ§as convergentes: a inflaÃ§Ã£o prolongada que afasta os consumidores da compra de equipamentos novos, a crescente consciÃªncia ambiental que valoriza a reparaÃ§Ã£o em detrimento do descarte, e a nova legislaÃ§Ã£o europeia de 'Direito Ã  ReparaÃ§Ã£o' (Diretiva UE 2024/1799) que obriga os fabricantes a disponibilizar peÃ§as a preÃ§os acessÃ­veis.
+Em Tomar, esta oportunidade Ã© ainda mais evidente. A cidade conta com uma populaÃ§Ã£o universitÃ¡ria significativa (IPT), uma forte comunidade de pensionistas e famÃ­lias de rendimento mÃ©dio-baixo, e uma oferta de reparaÃ§Ã£o local limitada a tÃ©cnicos informais e Ã  assistÃªncia oficial das marcas â€” cara e geograficamente distante. A Repara+ posiciona-se exatamente neste vazio do mercado.
+2.2. HistÃ³ria da Empresa
+A Repara+ nasceu nas bancadas de trabalho improvisadas de trÃªs estudantes de Engenharia InformÃ¡tica do IPT, em Tomar. Tudo comeÃ§ou de forma espontÃ¢nea: colegas que chegavam com telemÃ³veis partidos, computadores lentos e portÃ¡teis que nÃ£o arrancavam. A resposta era sempre a mesma â€” um diagnÃ³stico rÃ¡pido, uma reparaÃ§Ã£o competente, e a satisfaÃ§Ã£o de ver a tecnologia voltar a funcionar.
+O que comeÃ§ou como um favor entre amigos rapidamente se transformou em algo mais sÃ©rio. A palavra correu pelo campus, as reparaÃ§Ãµes multiplicaram-se, e os trÃªs fundadores â€” com formaÃ§Ã£o tÃ©cnica sÃ³lida em sistemas, redes e hardware â€” perceberam que existia uma procura real e nÃ£o satisfeita. A experiÃªncia acumulada em reparaÃ§Ãµes de componentes complexos (incluindo microssoldadura e recuperaÃ§Ã£o de dados) revelou que o nÃ­vel de competÃªncia tÃ©cnica disponÃ­vel no mercado informal era claramente inferior ao que conseguiam oferecer.
+Em 2025, a decisÃ£o foi tomada: transformar a experiÃªncia em empresa. A Repara+ Lda. foi constituÃ­da com capital prÃ³prio dos trÃªs sÃ³cios, assumindo um compromisso claro com a comunidade local â€” reparar mais, descartar menos, e tornar a tecnologia acessÃ­vel a todos.
+2.3. MissÃ£o
+"Devolver a vida Ãºtil aos dispositivos eletrÃ³nicos dos nossos clientes, com competÃªncia tÃ©cnica, preÃ§os justos e total transparÃªncia â€” contribuindo para uma tecnologia mais acessÃ­vel e para um consumo mais responsÃ¡vel."
+A Repara+ compromete-se a ser a escolha de confianÃ§a para quem quer reparar em vez de substituir, oferecendo soluÃ§Ãµes tÃ©cnicas avanÃ§adas ao alcance de todos â€” estudantes, empresas, pensionistas e famÃ­lias.
+2.4. VisÃ£o
+Ser a referÃªncia regional em reparaÃ§Ã£o e recondicionamento de dispositivos eletrÃ³nicos no distrito de SantarÃ©m, reconhecida pela excelÃªncia tÃ©cnica, responsabilidade social e contribuiÃ§Ã£o ativa para a economia circular e a reduÃ§Ã£o do lixo eletrÃ³nico.
+A longo prazo, a Repara+ ambiciona expandir o modelo de negÃ³cio para alÃ©m de Tomar â€” seja atravÃ©s de uma segunda unidade fÃ­sica, de parcerias com autarquias e escolas para programas de recolha e recondicionamento de e-waste, ou de um serviÃ§o de apoio tÃ©cnico B2B a empresas da regiÃ£o que dependem de equipamento tecnolÃ³gico para operar.
+Queremos ser parte da soluÃ§Ã£o para um dos maiores desafios ambientais do sÃ©culo XXI: os 50 milhÃµes de toneladas de lixo eletrÃ³nico produzidas anualmente no mundo, dos quais apenas 20% sÃ£o reciclados de forma responsÃ¡vel.
+2.5. Objetivos EstratÃ©gicos
+Para alcanÃ§ar a visÃ£o definida, a Repara+ estabelece os seguintes objetivos por horizonte temporal:
+Curto Prazo (Ano 1)
+Abrir a loja fÃ­sica em Tomar e atingir reconhecimento de marca junto do pÃºblico universitÃ¡rio do IPT
+Realizar 80 a 120 reparaÃ§Ãµes mensais com satisfaÃ§Ã£o do cliente superior a 90%
+Construir uma base de dados de clientes recorrentes e lanÃ§ar o sistema de crÃ©dito de loja
+Estabelecer pelo menos 2 parcerias com fornecedores de peÃ§as a preÃ§os competitivos
+Atingir o break-even operacional no final do primeiro ano
+MÃ©dio Prazo (Anos 2â€“3)
+Expandir a oferta de recondicionados Ã  venda, criando uma linha de equipamentos certificados pela Repara+
+Fechar contratos de manutenÃ§Ã£o B2B com pelo menos 10 microempresas locais
+LanÃ§ar programa de recolha de e-waste em parceria com escolas e juntas de freguesia
+Atingir volume de negÃ³cios de 80.000â‚¬ anuais
+Longo Prazo (Anos 4â€“5)
+Avaliar a abertura de segunda unidade ou modelo de franchising
+Tornar-se fornecedor homologado de serviÃ§os de manutenÃ§Ã£o para organismos pÃºblicos locais
+Consolidar posiÃ§Ã£o como empresa de referÃªncia em economia circular no distrito de SantarÃ©m
+2.6. Valores (ESG)
+
+AMBIENTAL
+Direito Ã  ReparaÃ§Ã£o: 
+cada reparaÃ§Ã£o Ã© um passo contra o consumismo tecnolÃ³gico e a favor da reduÃ§Ã£o de lixo eletrÃ³nico.
+Economia Circular: 
+os dispositivos que nÃ£o tÃªm reparaÃ§Ã£o viÃ¡vel sÃ£o desmontados para peÃ§as ou recondicionados, evitando o aterro.
+Longevidade dos Equipamentos: 
+cada ano de vida Ãºtil adicional de um smartphone evita em mÃ©dia 40â€“70 kg de CO2 equivalente.
+SOCIAL
+InclusÃ£o Digital: 
+descontos para estudantes e pensionistas garantem que a tecnologia nÃ£o Ã© um privilÃ©gio.
+TransparÃªncia: 
+orÃ§amento gratuito e sem surpresas â€” o cliente decide sempre com informaÃ§Ã£o completa.
+Emprego Local: 
+geraÃ§Ã£o de postos de trabalho qualificados na regiÃ£o de Tomar.
+GOVERNANÃ‡A
+Conformidade Legal: 
+cumprimento rigoroso do Decreto-Lei n.Âº 84/2021 (garantias ao consumidor) e da Diretiva UE 2024/1799.
+GestÃ£o Ã‰tica: 
+decisÃµes partilhadas entre os trÃªs sÃ³cios com igual peso, garantindo equilÃ­brio e responsabilidade coletiva.
+ProteÃ§Ã£o de Dados: 
+conformidade com o RGPD na gestÃ£o de dados pessoais e histÃ³rico de reparaÃ§Ãµes dos clientes.
+2.7. Vantagem Competitiva
+A Repara+ nÃ£o compete com a Worten Resolve nem com o serviÃ§o oficial das marcas. Compete com a decisÃ£o de comprar um equipamento novo. A vantagem competitiva assenta em cinco elementos estruturais que, em conjunto, sÃ£o impossÃ­veis de replicar por concorrentes informais ou por grandes superfÃ­cies:
+CompetÃªncia TÃ©cnica de NÃ­vel Superior
+ReparaÃ§Ã£o ao nÃ­vel do componente (microssoldadura, substituiÃ§Ã£o de chips SMD, recuperaÃ§Ã£o de placa-mÃ£e)
+Uso de impressÃ£o 3D para fabrico de peÃ§as descontinuadas ou de difÃ­cil acesso
+FormaÃ§Ã£o acadÃ©mica em Engenharia InformÃ¡tica aplicada diretamente Ã  bancada de trabalho
+Modelo de Retoma Inovador
+Ãšnico operador local que compra dispositivos sem reparaÃ§Ã£o viÃ¡vel ao invÃ©s de os rejeitar
+O cliente recebe dinheiro imediato + crÃ©dito de loja adicional, transformando um problema num benefÃ­cio
+Os dispositivos adquiridos alimentam o stock de peÃ§as e de recondicionados, reduzindo custos de produÃ§Ã£o
+Sistema de FidelizaÃ§Ã£o Diferenciador
+CrÃ©dito de loja acumulÃ¡vel em cada interaÃ§Ã£o (reparaÃ§Ã£o, retoma, compra de acessÃ³rios)
+Lootboxes exclusivas para clientes com crÃ©dito: caixas surpresa com equipamento selecionado, criando um elemento de entusiasmo e recompensa Ãºnico no mercado local
+TransparÃªncia como Argumento de Venda
+DiagnÃ³stico e orÃ§amento gratuitos, sem qualquer obrigaÃ§Ã£o de aceitaÃ§Ã£o
+PreÃ§os pÃºblicos e fixos, sem cobranÃ§as surpresa â€” numa Ã¡rea onde o mercado informal Ã© frequentemente opaco
+Responsabilidade Social Estrutural
+Descontos obrigatÃ³rios (nÃ£o discricionÃ¡rios) para estudantes e pensionistas de baixo rendimento
+Posicionamento como empresa de impacto ambiental positivo, num momento em que o ESG influencia as escolhas de consumo
+2.8. Modelo de NegÃ³cio
+A Repara+ opera um modelo de negÃ³cio integrado com trÃªs linhas de receita complementares:
+
+Linha de NegÃ³cio
+DescriÃ§Ã£o
+Fonte de Receita
+ServiÃ§os de ReparaÃ§Ã£o
+ReparaÃ§Ã£o de telemÃ³veis, computadores e tablets com orÃ§amento gratuito prÃ©vio
+MÃ£o-de-obra + margem sobre peÃ§as
+Retoma e Recondicionamento
+Compra de equipamentos irreparÃ¡veis, extraÃ§Ã£o de peÃ§as e venda de recondicionados
+Margem de revenda + venda de peÃ§as avulsas
+Produtos e AcessÃ³rios
+Venda de capas, pelÃ­culas, cabos, carregadores e equipamento de substituiÃ§Ã£o em aluguer
+Margem de retalho + receita diÃ¡ria de aluguer (1,50â‚¬/dia)
+3. Estrutura da Empresa
+3.1. Forma JurÃ­dica
+A Repara+ adota a forma jurÃ­dica de Sociedade por Quotas (Lda.), constituÃ­da por trÃªs sÃ³cios com quotas iguais de 33,33% cada. Esta estrutura foi escolhida pela responsabilidade limitada ao capital social subscrito, pela flexibilidade de gestÃ£o entre sÃ³cios e pela adequaÃ§Ã£o Ã  dimensÃ£o inicial do projeto.
+O capital social mÃ­nimo de uma Lda. em Portugal Ã© de 1â‚¬ por sÃ³cio (total: 3â‚¬), embora se recomende um capital social inicial adequado Ã s necessidades operacionais. A responsabilidade de cada sÃ³cio fica limitada ao valor da sua quota.
+3.2. DenominaÃ§Ã£o Social
+Repara+ Lda.
+3.3. ClassificaÃ§Ã£o de Atividade EconÃ³mica (CAE)
+A empresa opera sob os seguintes CÃ³digos de Atividade EconÃ³mica:
+
+CAE
+DescriÃ§Ã£o
+95110
+ReparaÃ§Ã£o de computadores e de equipamento perifÃ©rico (CAE Principal)
+95120
+ReparaÃ§Ã£o de equipamento de comunicaÃ§Ã£o (telemÃ³veis e tablets)
+47410
+ComÃ©rcio a retalho de computadores, unidades perifÃ©ricas e programas
+47420
+ComÃ©rcio a retalho de equipamento de telecomunicaÃ§Ãµes, em estabelecimentos especializados
+47790
+ComÃ©rcio a retalho de artigos em segunda mÃ£o, em estabelecimentos especializados
+3.4. Equipa Fundadora e de GestÃ£o
+A empresa Ã© fundada e gerida por trÃªs sÃ³cios com formaÃ§Ã£o em Engenharia InformÃ¡tica pelo IPT, com competÃªncias complementares que cobrem as trÃªs Ã¡reas crÃ­ticas do negÃ³cio:
+
+SÃ³cio
+HabilitaÃ§Ãµes
+Responsabilidade
+CompetÃªncias Chave
+SÃ³cio A
+Licenciatura Eng. InformÃ¡tica (IPT)
+DireÃ§Ã£o TÃ©cnica & ReparaÃ§Ã£o
+Hardware, microssoldadura, diagnÃ³stico avanÃ§ado
+SÃ³cio B
+Licenciatura Eng. InformÃ¡tica (IPT)
+GestÃ£o Comercial & Clientes
+Atendimento, redes sociais, vendas, orÃ§amentos
+SÃ³cio C
+Licenciatura Eng. InformÃ¡tica (IPT)
+GestÃ£o Operacional & Financeira
+Stocks, fornecedores, contabilidade, sistemas TI internos
+Todos os sÃ³cios sÃ£o remunerados atravÃ©s de um salÃ¡rio base idÃªntico, garantindo equidade na distribuiÃ§Ã£o do trabalho e dos benefÃ­cios. Os lucros remanescentes sÃ£o distribuÃ­dos em proporÃ§Ã£o igual Ã s quotas detidas (33,33% cada).
+4. AnÃ¡lise do Meio, do Setor e da IndÃºstria
+4.1. AnÃ¡lise PESTEL
+
+Fator
+AnÃ¡lise e Impacto
+POLÃTICO
+Direito Ã  ReparaÃ§Ã£o (UE): 
+A Diretiva (UE) 2024/1799 obriga os fabricantes a disponibilizar manuais tÃ©cnicos e peÃ§as sobresselentes a preÃ§os razoÃ¡veis atÃ© 2025â€“2026, quebrando os monopÃ³lios das assistÃªncias oficiais. Impacto: POSITIVO â€” reduz barreiras de acesso a peÃ§as e aumenta a legitimidade dos reparadores independentes.
+Apoios ao Empreendedorismo: 
+Programas nacionais (Startup Portugal, IEFP) e comunitÃ¡rios (PRR, Portugal 2030) disponÃ­veis para startups na Ã¡rea da economia circular e tecnologia. Impacto: POSITIVO â€” possibilidade de financiamento nÃ£o reembolsÃ¡vel.
+ECONÃ“MICO
+InflaÃ§Ã£o e Poder de Compra: 
+A inflaÃ§Ã£o acumulada dos Ãºltimos anos reduziu o poder de compra das famÃ­lias portuguesas, tornando a reparaÃ§Ã£o mais atraente face Ã  substituiÃ§Ã£o. Um smartphone de topo custa 1.000â€“1.500â‚¬; uma reparaÃ§Ã£o tÃ­pica custa 40â€“80â‚¬. Impacto: MUITO POSITIVO.
+Economia Circular como TendÃªncia: 
+O setor de reparaÃ§Ã£o e recondicionamento cresce a uma taxa estimada de 8â€“12% ao ano na Europa. Impacto: POSITIVO.
+SOCIAL
+DependÃªncia TecnolÃ³gica: 
+TelemÃ³veis e computadores deixaram de ser artigos de luxo e tornaram-se ferramentas essenciais de trabalho, estudo e comunicaÃ§Ã£o. A urgÃªncia da reparaÃ§Ã£o aumenta o valor percebido do serviÃ§o. Impacto: POSITIVO.
+ConsciÃªncia Ambiental: 
+As geraÃ§Ãµes mais jovens (principais utilizadores do IPT) valorizam cada vez mais marcas com impacto ambiental positivo. O posicionamento ESG da Repara+ Ã© um argumento de venda genuÃ­no. Impacto: POSITIVO.
+TECNOLÃ“GICO
+ImpressÃ£o 3D e Microssoldadura: 
+A evoluÃ§Ã£o das ferramentas de reparaÃ§Ã£o (estaÃ§Ãµes de microssoldadura acessÃ­veis, impressoras 3D de resina) permite reparar equipamentos que antes eram irrecuperÃ¡veis. Impacto: POSITIVO â€” vantagem tÃ©cnica da Repara+.
+Emparelhamento de PeÃ§as por Software: 
+Fabricantes como Apple e Samsung usam software para bloquear peÃ§as nÃ£o-originais (ex: avisos de bateria nÃ£o autÃªntica). A Diretiva UE 2024/1799 visa combater esta prÃ¡tica. Impacto: NEGATIVO (mitigado pela legislaÃ§Ã£o).
+AMBIENTAL
+Lixo EletrÃ³nico: 
+Portugal produziu cerca de 180.000 toneladas de e-waste em 2023. Cada dispositivo evitado do aterro representa uma reduÃ§Ã£o real de metais raros extraÃ­dos e de emissÃµes de CO2. A Repara+ transforma este problema ambiental em proposta de valor. Impacto: POSITIVO.
+LEGAL
+Decreto-Lei n.Âº 84/2021: 
+Regula os direitos do consumidor em Portugal, incluindo garantia mÃ­nima de 3 anos em produtos novos e obrigaÃ§Ã£o de garantia pÃ³s-reparaÃ§Ã£o. A Repara+ garante 90 dias sobre qualquer intervenÃ§Ã£o realizada. Impacto: NEUTRO (obrigaÃ§Ã£o legal cumprida).
+RGPD: 
+GestÃ£o de dados pessoais dos clientes e histÃ³rico de reparaÃ§Ãµes sujeita ao Regulamento Geral de ProteÃ§Ã£o de Dados. Requer polÃ­tica de privacidade clara e consentimento explÃ­cito. Impacto: NEUTRO (custos de conformidade baixos).
+4.2. AnÃ¡lise das 5 ForÃ§as de Porter
+
+1. Rivalidade entre Concorrentes Existentes â€” MÃ‰DIA
+A concorrÃªncia direta em Tomar Ã© limitada. Os principais concorrentes sÃ£o tÃ©cnicos informais (sem registo, sem garantia, preÃ§os variÃ¡veis) e a Worten Resolve, que opera com preÃ§os elevados e processos lentos. A Repara+ tem vantagem clara em preÃ§o, qualidade tÃ©cnica e transparÃªncia.
+2. Poder de NegociaÃ§Ã£o dos Compradores (Clientes) â€” MÃ‰DIO
+Os clientes individuais tÃªm poder de negociaÃ§Ã£o limitado, especialmente em reparaÃ§Ãµes urgentes (telemÃ³vel partido Ã© insubstituÃ­vel a curto prazo). Clientes B2B (microempresas) tÃªm maior poder negocial, mas a oferta de contratos de manutenÃ§Ã£o com preÃ§os fixos e SLA garantido reduz a pressÃ£o.
+3. Poder de NegociaÃ§Ã£o dos Fornecedores â€” MÃ‰DIO-BAIXO
+O mercado de peÃ§as para dispositivos eletrÃ³nicos Ã© globalmente competitivo, com mÃºltiplos fornecedores disponÃ­veis (AliExpress Pro, distribuidores europeus especializados). A concentraÃ§Ã£o de compras e o crescimento do volume de reparaÃ§Ãµes aumentarÃ¡ o poder negocial da Repara+ com o tempo.
+4. AmeaÃ§a de Novos Concorrentes â€” MÃ‰DIA
+A barreira de entrada tÃ©cnica Ã© significativa â€” a microssoldadura e o diagnÃ³stico de componentes exigem formaÃ§Ã£o e experiÃªncia que tÃ©cnicos informais tipicamente nÃ£o possuem. A reputaÃ§Ã£o e o sistema de fidelizaÃ§Ã£o criam switching costs para os clientes existentes.
+5. AmeaÃ§a de Produtos/ServiÃ§os Substitutos â€” ALTA
+Substituto
+AmeaÃ§a
+Resposta da Repara+
+Compra de produto novo
+Alta (em contexto de crescimento econÃ³mico)
+PreÃ§o de reparaÃ§Ã£o muito inferior; argumento ambiental
+ReparaÃ§Ã£o DIY (YouTube)
+MÃ©dia (risco de dano adicional)
+DiagnÃ³stico gratuito; mostrar complexidade real
+TÃ©cnicos informais
+Alta (preÃ§os mais baixos)
+Garantia, transparÃªncia e qualidade tÃ©cnica superior
+Garantia do fabricante
+Baixa (cara, lenta, exige envio)
+ServiÃ§o local, rÃ¡pido e mais econÃ³mico
+Aluguer/subscriÃ§Ã£o de equipamento
+Baixa (mercado nascente em PT)
+Oferecer aluguer prÃ³prio como serviÃ§o complementar
+5. EstratÃ©gia da Empresa
+5.1. AnÃ¡lise SWOT
+
+FORÃ‡AS (Strengths)
+CompetÃªncia tÃ©cnica superior: reparaÃ§Ã£o ao nÃ­vel do componente, microssoldadura e impressÃ£o 3D
+Modelo de retoma inovador: Ãºnico operador local que compra dispositivos irreparÃ¡veis
+Sistema de fidelizaÃ§Ã£o diferenciador: crÃ©dito de loja + Lootboxes exclusivas
+TransparÃªncia total: diagnÃ³stico e orÃ§amento gratuitos, sem custos ocultos
+Posicionamento ESG genuÃ­no: empresa com impacto ambiental positivo real
+FRAQUEZAS (Weaknesses)
+Capacidade de produÃ§Ã£o limitada: gargalo no volume de reparaÃ§Ãµes diÃ¡rias com 3 fundadores
+InexperiÃªncia comercial: ausÃªncia de experiÃªncia prÃ©via em retalho fÃ­sico e gestÃ£o de reclamaÃ§Ãµes
+Recursos financeiros iniciais limitados: bootstrapping restringe investimento em marketing massivo
+GestÃ£o de garantias pÃ³s-reparaÃ§Ã£o: custos imprevistos em devoluÃ§Ãµes e retrabalho
+DependÃªncia de cadeias de abastecimento globais (peÃ§as importadas)
+OPORTUNIDADES (Opportunities)
+PÃºblico universitÃ¡rio do IPT: fluxo constante de estudantes com necessidades tecnolÃ³gicas urgentes
+LegislaÃ§Ã£o 'Direito Ã  ReparaÃ§Ã£o': quebra de monopÃ³lios de assistÃªncia oficial
+Contexto econÃ³mico: inflaÃ§Ã£o prolongada afasta consumidores da compra de equipamento novo
+Parcerias B2B sustentÃ¡veis: contratos de recolha de e-waste com escolas e empresas locais
+Crescimento do mercado de recondicionados: procura crescente por tecnologia acessÃ­vel
+AMEAÃ‡AS (Threats)
+ConcorrÃªncia institucional: grandes superfÃ­cies (Worten) com orÃ§amentos de publicidade desproporcionais
+Bloqueios de hardware dos fabricantes: emparelhamento de peÃ§as por software
+Instabilidade de fornecimento: flutuaÃ§Ãµes de preÃ§os e escassez de componentes (chips, ecrÃ£s)
+Mercado informal e cultura DIY: tÃ©cnicos sem registo legal com preÃ§os abaixo do mercado
+DependÃªncia da localizaÃ§Ã£o: qualquer alteraÃ§Ã£o no acesso ao IPT impacta o segmento universitÃ¡rio
+5.2. FormulaÃ§Ã£o da EstratÃ©gia
+Produto / ServiÃ§o
+ReparaÃ§Ã£o rÃ¡pida e transparente: orÃ§amento gratuito em 24h, reparaÃ§Ã£o concluÃ­da em 48â€“72h, garantia mÃ­nima de 90 dias
+Upcycling de lixo eletrÃ³nico: recuperaÃ§Ã£o avanÃ§ada de equipamentos com microssoldadura e impressÃ£o 3D, transformando irreparÃ¡veis em fontes de peÃ§as ou recondicionados
+Sistema de retoma com gamificaÃ§Ã£o: aquisiÃ§Ã£o de dispositivos + crÃ©dito de loja + Lootboxes exclusivas para clientes recorrentes
+Aluguer de equipamento substituto: dispositivos do stock de retoma cedidos durante a reparaÃ§Ã£o (sem custo adicional em reparaÃ§Ãµes superiores a 72h; 1,50â‚¬/dia nos restantes casos)
+Mercados e Segmentos de Mercado
+Segmento
+Perfil
+Proposta de Valor
+Estudantes IPT
+18â€“26 anos, budget limitado, alta dependÃªncia tecnolÃ³gica, urgÃªncia de reparaÃ§Ã£o
+Desconto 15% com cartÃ£o IPT, rapidez, preÃ§os acessÃ­veis, proximidade fÃ­sica
+Microempresas Locais
+PMEs de Tomar e regiÃ£o da NabÃ¢ncia, terminais POS, computadores de trabalho
+Contratos de manutenÃ§Ã£o, SLA garantido, equipamento substituto, fatura com IVA
+Pensionistas e Baixo Rendimento
++65 anos ou comprovativo de baixo rendimento, alta fidelidade, word-of-mouth forte
+Desconto 35%, atendimento paciente e explicativo, serviÃ§o de confianÃ§a local
+Canais de DistribuiÃ§Ã£o
+Loja fÃ­sica em Tomar (junto ao IPT): canal principal, espaÃ§o profissional e acolhedor com zona de atendimento e bancada de trabalho visÃ­vel
+WhatsApp Business: canal de contacto prioritÃ¡rio para orÃ§amentos remotos, envio de fotos para diagnÃ³stico, confirmaÃ§Ã£o de marcaÃ§Ãµes e notificaÃ§Ãµes de reparaÃ§Ã£o concluÃ­da
+Website com formulÃ¡rio de prÃ©-diagnÃ³stico: permite ao cliente descrever o problema e receber estimativa antes de se deslocar
+Redes sociais (Instagram, Facebook, TikTok): captaÃ§Ã£o de novos clientes e construÃ§Ã£o de notoriedade local
+Fontes de Financiamento
+Capital prÃ³prio dos 3 sÃ³cios (bootstrapping): financiamento inicial dos equipamentos e da loja
+MicrocrÃ©dito bancÃ¡rio (linha IEFP/BPI ou BPI Criar): para reforÃ§o do fundo de maneio nos primeiros 6 meses
+Candidatura a apoios PME (Portugal 2030 / PRR): para investimento em equipamento tÃ©cnico especializado (estaÃ§Ã£o de microssoldadura, impressora 3D)
+Receita prÃ³pria reinvestida: a partir do Ano 1, o cash flow operacional financia o crescimento
+6. Plano de Marketing
+6.1. Posicionamento
+A Repara+ posiciona-se como a alternativa tÃ©cnica de confianÃ§a para quem quer reparar em vez de substituir â€” mais competente que o tÃ©cnico informal, mais rÃ¡pida e acessÃ­vel que a assistÃªncia oficial. O posicionamento assenta em trÃªs eixos: qualidade tÃ©cnica comprovada, preÃ§o justo e transparente, e impacto social e ambiental positivo.
+6.2. Marketing-Mix (4 P's)
+Produto / ServiÃ§o
+A oferta organiza-se em trÃªs linhas complementares:
+ReparaÃ§Ã£o de Dispositivos
+TelemÃ³veis: ecrÃ£s, baterias, conectores de carga, cÃ¢maras, altifalantes, microfones
+Computadores e portÃ¡teis: hardware (RAM, SSD, GPU), remoÃ§Ã£o de vÃ­rus, SO, limpeza, upgrades
+Prazo: diagnÃ³stico em 24h Ãºteis; reparaÃ§Ã£o em 48â€“72h apÃ³s aprovaÃ§Ã£o do orÃ§amento
+Garantia: 90 dias mÃ­nimo sobre a intervenÃ§Ã£o (Decreto-Lei n.Âº 84/2021)
+Compra de Dispositivos e CrÃ©dito de Loja
+AquisiÃ§Ã£o de dispositivos irreparÃ¡veis a preÃ§o justo de mercado + crÃ©dito de loja adicional
+Principal diferenciador face a toda a concorrÃªncia local
+ServiÃ§os Complementares
+Aluguer de equipamento substituto (1,50â‚¬/dia) durante o perÃ­odo de reparaÃ§Ã£o
+Venda de acessÃ³rios: capas, pelÃ­culas, cabos, carregadores
+Lootboxes exclusivas para clientes com crÃ©dito de loja acumulado
+PreÃ§o
+
+ServiÃ§o
+PreÃ§o PÃºblico
+PolÃ­tica
+DiagnÃ³stico e orÃ§amento
+Gratuito
+Sempre gratuito
+SubstituiÃ§Ã£o de pelÃ­cula protetora
+Gratuito
+FidelizaÃ§Ã£o
+Problemas de software superficial (< 5 min)
+Gratuito
+Goodwill
+SubstituiÃ§Ã£o de ecrÃ£ / bateria (telemÃ³vel)
+55â‚¬
++ custo das peÃ§as
+ReparaÃ§Ã£o de software / vÃ­rus (PC ou telemÃ³vel)
+25â‚¬
+Fixo
+Upgrade RAM ou SSD em portÃ¡til
+40â‚¬
++ custo das peÃ§as
+Limpeza interna (portÃ¡til / PC / telemÃ³vel)
+20â‚¬
+Fixo
+Aluguer de equipamento substituto
+1,50â‚¬/dia
+Apenas se aplicÃ¡vel
+
+PolÃ­tica de descontos: 15% para estudantes com cartÃ£o IPT vÃ¡lido; 35% para pensionistas com baixo rendimento mediante comprovativo. EstratÃ©gia de penetraÃ§Ã£o de mercado â€” preÃ§os abaixo das assistÃªncias oficiais, acima dos tÃ©cnicos informais.
+DistribuiÃ§Ã£o (Place)
+Loja fÃ­sica junto ao IPT em Tomar: localizaÃ§Ã£o estratÃ©gica, acessÃ­vel a pÃ© pela comunidade universitÃ¡ria, com estacionamento prÃ³ximo. Ambiente profissional, limpo e acolhedor â€” transmite confianÃ§a sem intimidar
+PresenÃ§a digital: site com prÃ©-diagnÃ³stico online, WhatsApp Business para contacto direto (resposta < 2h em dias Ãºteis)
+ComunicaÃ§Ã£o / PromoÃ§Ã£o
+
+Canal
+Tipo de ConteÃºdo
+FrequÃªncia
+Objetivo
+Instagram
+Antes/depois de reparaÃ§Ãµes, Reels do processo, FAQs, destaques de serviÃ§os, memes
+4â€“5x por semana
+CaptaÃ§Ã£o jovem, prova social
+Facebook
+Casos de sucesso, dicas de manutenÃ§Ã£o, promoÃ§Ãµes, grupos locais de Tomar
+3x por semana
+Comunidade local, +35 anos
+TikTok
+'Coisas que NÃƒO deves fazer', timelapse de reparaÃ§Ã£o, reaÃ§Ã£o a DIY caseiro, curiosidades
+3â€“4x por semana
+Viralidade, notoriedade de marca
+WhatsApp Business
+OrÃ§amentos remotos, confirmaÃ§Ã£o de marcaÃ§Ãµes, aviso de conclusÃ£o, catÃ¡logo de serviÃ§os
+ContÃ­nuo (< 2h)
+ConversÃ£o e retenÃ§Ã£o
+Google Business
+Ficha de Google Maps, respostas a avaliaÃ§Ãµes, fotos da loja e serviÃ§os
+Semanal
+SEO local, confianÃ§a
+7. Plano de OrganizaÃ§Ã£o dos Recursos Humanos
+7.1. Equipa de Trabalho
+Na fase inicial (Ano 1), a empresa opera exclusivamente com os trÃªs sÃ³cios fundadores, sem recurso a contrataÃ§Ã£o externa. Cada sÃ³cio acumula funÃ§Ãµes tÃ©cnicas e de gestÃ£o, com responsabilidades claramente definidas para evitar sobreposiÃ§Ãµes e garantir eficiÃªncia operacional.
+
+SÃ³cio
+FunÃ§Ãµes Principais
+Regime
+RemuneraÃ§Ã£o Base (Est.)
+SÃ³cio A â€” Diretor TÃ©cnico
+DiagnÃ³stico avanÃ§ado, reparaÃ§Ãµes complexas, microssoldadura, gestÃ£o de qualidade
+Full-time (40h/sem)
+820â‚¬/mÃªs (salÃ¡rio mÃ­nimo + encargos)
+SÃ³cio B â€” Diretor Comercial
+Atendimento ao cliente, orÃ§amentos, redes sociais, gestÃ£o de campanhas, reparaÃ§Ãµes simples
+Full-time (40h/sem)
+820â‚¬/mÃªs
+SÃ³cio C â€” Diretor Operacional
+GestÃ£o de stocks e fornecedores, contabilidade interna, sistemas TI, reparaÃ§Ãµes intermÃ©dias
+Full-time (40h/sem)
+820â‚¬/mÃªs
+Nota: Os salÃ¡rios apresentados sÃ£o indicativos e correspondem ao salÃ¡rio mÃ­nimo nacional de 2025. A partir do Ano 2, prevÃª-se revisÃ£o salarial em funÃ§Ã£o dos resultados. Os lucros sÃ£o distribuÃ­dos proporcionalmente Ã s quotas apÃ³s cobertura de todos os custos operacionais.
+7.2. Estrutura Organizacional
+A estrutura Ã© plana e horizontal na fase inicial, com tomada de decisÃ£o partilhada entre os trÃªs sÃ³cios. Cada sÃ³cio tem autonomia na sua Ã¡rea de responsabilidade, com reuniÃµes semanais de coordenaÃ§Ã£o.
+
+GERÃŠNCIA (3 SÃ³cios â€” DecisÃµes EstratÃ©gicas Partilhadas)
+ÃREA TÃ‰CNICA
+ReparaÃ§Ã£o, DiagnÃ³stico, Qualidade
+ÃREA COMERCIAL
+Clientes, Marketing, Vendas
+ÃREA OPERACIONAL
+Stocks, FinanÃ§as, Sistemas
+7.3. Programa de FormaÃ§Ã£o
+FormaÃ§Ã£o contÃ­nua em tÃ©cnicas de reparaÃ§Ã£o: cursos online especializados (Louis Rossmann, iFixit Pro), workshops de microssoldadura
+FormaÃ§Ã£o em gestÃ£o de negÃ³cios: frequÃªncia de workshops do IEFP e do IPT (empreendedorismo, contabilidade bÃ¡sica, gestÃ£o de clientes)
+FormaÃ§Ã£o em comunicaÃ§Ã£o digital: gestÃ£o de redes sociais, criaÃ§Ã£o de conteÃºdo, SEO local
+PrevÃª-se a contrataÃ§Ã£o de um tÃ©cnico jÃºnior a partir do Ano 2, caso o volume de reparaÃ§Ãµes justifique
+8. Plano de OperaÃ§Ãµes
+8.1. Plano de ProduÃ§Ã£o / Fluxo de ServiÃ§o
+
+Fase
+Etapa
+DescriÃ§Ã£o
+1
+ReceÃ§Ã£o e DiagnÃ³stico
+Cliente entrega o dispositivo; Ã© criada uma ficha de cliente no sistema; diagnÃ³stico realizado em atÃ© 24h Ãºteis â€” gratuito e sem compromisso
+2
+OrÃ§amento
+OrÃ§amento detalhado enviado por WhatsApp/email, com custo de mÃ£o-de-obra e peÃ§as discriminados. Cliente aprova ou recusa sem qualquer custo
+3A
+ReparaÃ§Ã£o (se aprovado)
+ReparaÃ§Ã£o concluÃ­da em 48â€“72h apÃ³s aprovaÃ§Ã£o. Se > 72h, Ã© oferecido equipamento substituto ao cliente
+3B
+Retoma (se irreparÃ¡vel)
+Se o custo de reparaÃ§Ã£o > valor do aparelho, Ã© feita proposta de compra do dispositivo: pagamento imediato + crÃ©dito de loja adicional
+4
+Entrega e Garantia
+Dispositivo entregue com comprovativo de reparaÃ§Ã£o e declaraÃ§Ã£o de garantia (90 dias mÃ­nimo). Registo digital do histÃ³rico do cliente
+5
+PÃ³s-Venda
+Follow-up por WhatsApp 7 dias apÃ³s a reparaÃ§Ã£o; convite para avaliaÃ§Ã£o Google; atualizaÃ§Ã£o do crÃ©dito de loja do cliente
+8.2. Rede de Fornecedores
+PeÃ§as de telemÃ³veis (ecrÃ£s, baterias, conectores): distribuidores europeus especializados (ex: MobileSentrix EU, Phone Parts Warehouse) e fornecedores asiÃ¡ticos certificados (AliExpress Business, Alibaba verified suppliers)
+PeÃ§as de computadores (RAM, SSD, GPU, ventoinhas): distribuidores portugueses (Chip7, KuantoKusta B2B) e europeus (Amazon Business, Conrad Electronic)
+ConsumÃ­veis tÃ©cnicos (pasta tÃ©rmica, flux de soldadura, Ã¡lcool isopropÃ­lico, cabos de diagnÃ³stico): fornecedores especializados em eletrÃ³nica
+AcessÃ³rios (capas, pelÃ­culas, cabos): distribuidores grossistas com margem mÃ­nima de 40%
+8.3. Parceiros de NegÃ³cio
+Instituto PolitÃ©cnico de Tomar (IPT): parceria para desconto a estudantes, possibilidade de presenÃ§a em eventos acadÃ©micos e divulgaÃ§Ã£o interna
+Junta de Freguesia de Tomar: colaboraÃ§Ã£o em campanhas de recolha de e-waste e eventos de sensibilizaÃ§Ã£o ambiental
+Escolas secundÃ¡rias da regiÃ£o: programas de reciclagem responsÃ¡vel de equipamentos informÃ¡ticos obsoletos
+Contabilista Certificado (externo): gestÃ£o da contabilidade formal, IVA, declaraÃ§Ãµes fiscais e processamento salarial
+8.4. RegulamentaÃ§Ã£o e ExigÃªncias Legais
+Registo na ConservatÃ³ria do Registo Comercial e obtenÃ§Ã£o do NIPC (NÃºmero de IdentificaÃ§Ã£o de Pessoa Coletiva)
+Registo nas FinanÃ§as e inÃ­cio de atividade com os CAE definidos
+InscriÃ§Ã£o na SeguranÃ§a Social como gerentes de Lda.
+LicenÃ§a de utilizaÃ§Ã£o do espaÃ§o comercial (CÃ¢mara Municipal de Tomar)
+Conformidade com o Decreto-Lei n.Âº 84/2021 (garantias ao consumidor)
+Registo como operador de resÃ­duos eletrÃ³nicos (REEE) para gestÃ£o legal de e-waste
+Conformidade com o RGPD: polÃ­tica de privacidade, registo de tratamento de dados, consentimento informado
+Seguro de responsabilidade civil para danos em equipamentos de clientes
+9. Plano EconÃ³mico-Financeiro
+9.1. Investimento Inicial
+
+Item de Investimento
+Valor Estimado (â‚¬)
+ObservaÃ§Ãµes
+Obras e adaptaÃ§Ã£o do espaÃ§o
+2.000â‚¬
+BalcÃ£o, iluminaÃ§Ã£o, estantes
+EstaÃ§Ã£o de microssoldadura profissional
+1.500â‚¬
+Hot air + soldadura fina
+Impressora 3D de resina
+600â‚¬
+Para peÃ§as descontinuadas
+Ferramentas e consumÃ­veis tÃ©cnicos
+800â‚¬
+Chaves, pinÃ§as, flux, etc.
+Stock inicial de peÃ§as
+2.000â‚¬
+EcrÃ£s, baterias, conectores
+Computador de trabalho / sistema POS
+800â‚¬
+GestÃ£o de clientes e stocks
+Website e identidade visual
+500â‚¬
+DomÃ­nio, hosting, design
+Registo da empresa e custos legais
+400â‚¬
+NotÃ¡rio, registo comercial
+Fundo de maneio inicial (3 meses)
+5.000â‚¬
+Rendas, salÃ¡rios, fornecedores
+TOTAL ESTIMADO
+~13.600â‚¬
+A refinar
+9.2. ProjeÃ§Ãµes de Receita (Anos 1â€“3)
+
+Rubrica
+Ano 1 (â‚¬)
+Ano 2 (â‚¬)
+Ano 3 (â‚¬)
+ReparaÃ§Ãµes (mÃ£o-de-obra)
+28.000
+38.000
+50.000
+Margem sobre peÃ§as utilizadas
+8.000
+12.000
+16.000
+Venda de recondicionados
+6.000
+10.000
+15.000
+Venda de acessÃ³rios
+4.000
+6.000
+8.000
+Aluguer de equipamento + outros
+2.000
+3.000
+4.000
+VOLUME DE NEGÃ“CIOS TOTAL
+48.000â‚¬
+69.000â‚¬
+93.000â‚¬
+9.3. Estrutura de Custos Operacionais (Ano 1)
+
+Custo
+Mensal (â‚¬)
+Anual (â‚¬)
+SalÃ¡rios dos 3 sÃ³cios (bruto + TSU)
+~3.000
+~36.000
+Renda do espaÃ§o comercial
+~500
+~6.000
+PeÃ§as e materiais (custo variÃ¡vel)
+~600
+~7.200
+Marketing e comunicaÃ§Ã£o
+~200
+~2.400
+Contabilidade externa
+~150
+~1.800
+Seguros, Ã¡gua, luz, internet
+~200
+~2.400
+Outros (imprevistos, formaÃ§Ã£o)
+~150
+~1.800
+TOTAL CUSTOS OPERACIONAIS (Ano 1)
+~4.800
+~57.600â‚¬
+
+Nota: Com um volume de negÃ³cios projetado de 48.000â‚¬ no Ano 1 e custos de 57.600â‚¬, prevÃª-se um dÃ©fice operacional no primeiro ano, coberto pelo fundo de maneio inicial e pelo capital social. O break-even operacional Ã© projetado para o inÃ­cio do Ano 2, quando o volume de reparaÃ§Ãµes atinge a escala necessÃ¡ria. Todos os valores sÃ£o estimativas a refinar com dados reais de mercado local.
+9.4. Indicadores Financeiros Chave
+
+Indicador
+Ano 1
+Ano 2
+Ano 3
+Volume de NegÃ³cios
+48.000â‚¬
+69.000â‚¬
+93.000â‚¬
+Custos Operacionais
+57.600â‚¬
+62.000â‚¬
+68.000â‚¬
+Resultado Operacional
+-9.600â‚¬
++7.000â‚¬
++25.000â‚¬
+NÂº ReparaÃ§Ãµes/mÃªs (estimado)
+80â€“90
+110â€“130
+150â€“180
+Ticket mÃ©dio
+~45â‚¬
+~48â‚¬
+~50â‚¬
+10. ConclusÃ£o
+A Repara+ Lda. apresenta-se como um projeto empresarial com fundamentos sÃ³lidos, assente numa oportunidade de mercado real, numa equipa tecnicamente competente e num modelo de negÃ³cio diferenciado e sustentÃ¡vel.
+O contexto macroeconÃ³mico (inflaÃ§Ã£o, direito Ã  reparaÃ§Ã£o, economia circular) cria as condiÃ§Ãµes ideais para o crescimento deste tipo de negÃ³cio. A localizaÃ§Ã£o estratÃ©gica junto ao IPT garante um fluxo de clientes recorrente e renovÃ¡vel, enquanto a oferta de serviÃ§os B2B e o posicionamento social alargam o mercado endereÃ§Ã¡vel para alÃ©m do campus universitÃ¡rio.
+Os principais riscos â€” dÃ©fice operacional no primeiro ano, concorrÃªncia informal e instabilidade de fornecimento â€” estÃ£o identificados e mitigados atravÃ©s do modelo de retoma (que reduz custos de peÃ§as), da transparÃªncia como argumento de venda (que compete com o informal) e da diversificaÃ§Ã£o de fornecedores.
+A Repara+ nÃ£o Ã© apenas uma empresa de reparaÃ§Ã£o. Ã‰ um projeto de impacto: ambiental, ao evitar o descarte prematuro de dispositivos; social, ao tornar a tecnologia acessÃ­vel a quem tem menos recursos; e econÃ³mico, ao criar emprego qualificado numa regiÃ£o que precisa de novas oportunidades.
+
+Repara+ Lda. | Tomar | 2025

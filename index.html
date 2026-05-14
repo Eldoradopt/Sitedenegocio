@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repara+ | Reparação Técnica & Sustentabilidade em Tomar</title>
+    <meta name="description" content="Reparação avançada de telemóveis e computadores em Tomar. Três engenheiros do IPT ao seu serviço. Reparar mais, descartar menos.">
+    <link rel="stylesheet" href="index.css">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+    <header id="header">
+        <div class="container">
+            <nav>
+                <a href="#" class="logo">REPARA<span class="plus-icon">+</span></a>
+                <ul class="nav-links">
+                    <li><a href="#servicos">Serviços</a></li>
+                    <li><a href="#simulador">Simulador</a></li>
+                    <li><a href="#estado">Estado</a></li>
+                    <li><a href="#avaliacoes">Avaliações</a></li>
+                    <li><a href="#diagnostico" class="btn btn-secondary btn-sm">Pré-Diagnóstico</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content glow-wrapper">
+                    <span class="hero-tagline"><i data-lucide="zap" class="inline-icon"></i> Inovação IPT • Tomar</span>
+                    <h1>A engenharia por trás do <span class="text-gradient">seu ecrã.</span></h1>
+                    <p>Mais do que reparar, nós recondicionamos. Soluções de microssoldadura e impressão 3D para prolongar a vida da sua tecnologia e reduzir o lixo eletrónico.</p>
+                    <div class="hero-btns">
+                        <a href="#diagnostico" class="btn btn-primary pulse-btn">Iniciar Diagnóstico Grátis <i data-lucide="arrow-right"></i></a>
+                        <a href="#simulador" class="btn btn-secondary">Ver Preços</a>
+                    </div>
+                </div>
+            </div>
+            <div class="scroll-indicator">
+                <div class="mouse"></div>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="servicos">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Serviços <span class="text-gradient">Especializados</span></h2>
+                    <p>O nível de um laboratório profissional, acessível a toda a comunidade.</p>
+                </div>
+                <div class="services-grid">
+                    <div class="service-card glass hover-glow">
+                        <div class="icon-wrapper"><i data-lucide="smartphone" class="service-icon"></i></div>
+                        <h3>Smartphones & Tablets</h3>
+                        <p>Ecrãs OLED, baterias certificadas e microssoldadura avançada em placa-mãe (FaceID, IC Touch).</p>
+                    </div>
+                    <div class="service-card glass hover-glow">
+                        <div class="icon-wrapper"><i data-lucide="laptop" class="service-icon"></i></div>
+                        <h3>Computadores</h3>
+                        <p>Upgrades SSD/RAM, reballing de chips gráficos, limpeza interna profunda e recuperação de dados.</p>
+                    </div>
+                    <div class="service-card glass hover-glow">
+                        <div class="icon-wrapper"><i data-lucide="layers" class="service-icon"></i></div>
+                        <h3>Impressão 3D</h3>
+                        <p>Fabricamos peças descontinuadas ou componentes estruturais para portáteis usando resina e filamento PETG.</p>
+                    </div>
+                    <div class="service-card glass hover-glow">
+                        <div class="icon-wrapper"><i data-lucide="refresh-cw" class="service-icon"></i></div>
+                        <h3>Economia Circular</h3>
+                        <p>Aparelho "sem arranjo"? Nós compramos o seu dispositivo danificado para aproveitar peças vitais.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interactive Pricing Simulator (Mockup Feature) -->
+        <section id="simulador" class="simulator-section">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Simulador de <span class="text-gradient">Orçamentos</span></h2>
+                    <p>Transparência total. Calcule uma estimativa imediata para o seu problema.</p>
+                </div>
+                <div class="simulator-wrapper glass">
+                    <div class="simulator-controls">
+                        <div class="form-group">
+                            <label>Dispositivo</label>
+                            <div class="btn-group" id="sim-device">
+                                <button class="btn-select active" data-val="phone"><i data-lucide="smartphone"></i> Telemóvel</button>
+                                <button class="btn-select" data-val="pc"><i data-lucide="laptop"></i> Portátil</button>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>Tipo de Reparação</label>
+                            <select id="sim-repair">
+                                <option value="screen">Substituição de Ecrã</option>
+                                <option value="battery">Substituição de Bateria</option>
+                                <option value="port">Conector de Carga</option>
+                                <option value="water">Danos por Água</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>És estudante do IPT?</label>
+                            <label class="toggle-switch">
+                                <input type="checkbox" id="sim-student">
+                                <span class="slider"></span>
+                            </label>
+                            <span style="font-size: 0.9rem; margin-left: 10px; color: var(--text-dim);">Aplica 15% Desconto</span>
+                        </div>
+                    </div>
+                    <div class="simulator-result glass-dark">
+                        <h3>Estimativa Base</h3>
+                        <div class="price-display">
+                            <span id="price-value">45</span><span class="currency">€</span>
+                        </div>
+                        <p class="price-note">*O valor exato depende da marca e modelo. Diagnóstico em loja é sempre <strong>0€</strong>.</p>
+                        <a href="#diagnostico" class="btn btn-primary" style="width: 100%; margin-top: 1rem;">Pedir Orçamento Exato</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Status Tracker Section (New Functionality) -->
+        <section id="estado" class="tracker-section" style="background: rgba(0, 229, 255, 0.02);">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Estado da <span class="text-gradient">Reparação</span></h2>
+                    <p>Insira o seu número de ticket para acompanhar o processo em tempo real.</p>
+                </div>
+                <div class="tracker-container glass" style="max-width: 600px; margin: 0 auto; padding: 2rem; text-align: center;">
+                    <div class="tracker-input-group" style="display: flex; gap: 10px; justify-content: center; margin-bottom: 2rem;">
+                        <input type="text" id="ticket-id" placeholder="Ex: REP842" style="max-width: 250px; text-transform: uppercase;">
+                        <button id="btn-track" class="btn btn-primary btn-sm">Consultar <i data-lucide="search" class="inline-icon" style="margin-left: 5px;"></i></button>
+                    </div>
+                    <div id="tracker-result" style="display: none;">
+                        <div class="progress-bar-container" style="background: rgba(255,255,255,0.1); border-radius: 10px; height: 10px; margin-bottom: 2rem; position: relative;">
+                            <div id="progress-fill" style="background: var(--accent-gradient); width: 0%; height: 100%; border-radius: 10px; transition: width 1s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 0 10px var(--primary-blue);"></div>
+                        </div>
+                        <div class="status-steps" style="display: flex; justify-content: space-between; text-align: center; color: var(--text-dim); font-size: 0.85rem;">
+                            <div class="step active" style="color: var(--primary-blue);"><i data-lucide="package" style="margin-bottom: 5px;"></i><br>Recebido</div>
+                            <div class="step" id="step-diag"><i data-lucide="microscope" style="margin-bottom: 5px; transition: color 0.5s;"></i><br>Diagnóstico</div>
+                            <div class="step" id="step-repair"><i data-lucide="tool" style="margin-bottom: 5px; transition: color 0.5s;"></i><br>Reparação</div>
+                            <div class="step" id="step-done"><i data-lucide="check-circle" style="margin-bottom: 5px; transition: color 0.5s;"></i><br>Pronto</div>
+                        </div>
+                        <div class="glass-dark" style="margin-top: 2rem; padding: 1.5rem; border-radius: 12px;">
+                            <p id="tracker-msg" style="font-weight: 600; color: #fff;"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Reviews Section -->
+        <section id="avaliacoes">
+            <div class="container">
+                <div class="section-title">
+                    <h2>A Voz dos <span class="text-gradient">Nossos Clientes</span></h2>
+                    <p>Avaliações reais de estudantes do IPT e comunidade de Tomar.</p>
+                </div>
+                <div class="form-container glass" style="max-width: 600px; margin: 0 auto;">
+                    <form id="review-form">
+                        <div class="form-group">
+                            <label for="review-name">O seu Nome</label>
+                            <input type="text" id="review-name" placeholder="Ex: João Marques" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Avaliação</label>
+                            <div class="stars-input" style="color: var(--text-dim); display: flex; gap: 5px; cursor: pointer; font-size: 1.5rem; margin-bottom: 10px;">
+                                <i data-lucide="star"></i><i data-lucide="star"></i><i data-lucide="star"></i><i data-lucide="star"></i><i data-lucide="star"></i>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="review-text">A sua Experiência</label>
+                            <textarea id="review-text" rows="4" placeholder="Como foi o serviço na Repara+?..." required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-secondary" style="width: 100%;">Deixar Avaliação <i data-lucide="message-square" style="width: 18px; margin-left: 8px;"></i></button>
+                    </form>
+                    <div id="review-success" class="success-message" style="display: none; text-align: center;">
+                        <div class="success-icon" style="margin-bottom: 15px;">
+                            <i data-lucide="check-circle" style="width: 48px; height: 48px; color: var(--primary-green);"></i>
+                        </div>
+                        <h3>Obrigado pela sua avaliação!</h3>
+                        <p>O seu feedback ajuda-nos a melhorar o nosso serviço.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Pre-diagnosis Form -->
+        <section id="diagnostico" class="diag-section">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Dar Início à <span class="text-gradient">Reparação</span></h2>
+                    <p>O diagnóstico é e sempre será gratuito. Descreva o problema.</p>
+                </div>
+                <div class="form-container glass">
+                    <form id="diag-form">
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="device">Dispositivo</label>
+                                <select id="device" required>
+                                    <option value="">Selecione...</option>
+                                    <option value="smartphone">Smartphone</option>
+                                    <option value="laptop">Portátil / PC</option>
+                                    <option value="tablet">Tablet</option>
+                                    <option value="outro">Outro</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="brand">Marca e Modelo</label>
+                                <input type="text" id="brand" placeholder="Ex: iPhone 13, Asus Zenbook..." required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="problem">Sintomas / Problema</label>
+                            <textarea id="problem" rows="3" placeholder="Ex: Caiu à água, a bateria descarrega rápido, ecrã partido..." required></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="contact">Contacto preferencial (Telemóvel)</label>
+                            <input type="tel" id="contact" placeholder="O seu número para WhatsApp" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary" style="width: 100%;">Solicitar Análise Gratuita <i data-lucide="send" style="width: 18px; margin-left: 8px;"></i></button>
+                    </form>
+                    <div id="form-success" class="success-message" style="display: none;">
+                        <div class="success-icon">
+                            <i data-lucide="check-circle"></i>
+                        </div>
+                        <h3>Pedido Recebido!</h3>
+                        <p>O ticket <strong>#REP842</strong> foi criado. Vamos enviar-lhe uma mensagem via WhatsApp nas próximas 2 horas.</p>
+                        <button class="btn btn-secondary mt-3" onclick="location.reload()">Novo Pedido</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <h3 class="logo">REPARA<span class="plus-icon">+</span></h3>
+                    <p class="footer-desc">Laboratório avançado de reparação e economia circular. Prolongamos a vida da tecnologia.</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Navegação</h4>
+                    <ul>
+                        <li><a href="#servicos">Serviços</a></li>
+                        <li><a href="#simulador">Orçamentos</a></li>
+                        <li><a href="#avaliacoes">Avaliações</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contacto & Local</h4>
+                    <ul>
+                        <li><i data-lucide="map-pin"></i> Junto ao Instituto Politécnico de Tomar</li>
+                        <li><i data-lucide="phone"></i> +351 900 000 000</li>
+                        <li><i data-lucide="mail"></i> info@reparaplus.pt</li>
+                    </ul>
+                </div>
+                <div class="footer-socials">
+                    <h4>Redes Sociais</h4>
+                    <div class="social-icons">
+                        <a href="#" class="social-icon glass"><i data-lucide="instagram"></i></a>
+                        <a href="#" class="social-icon glass"><i data-lucide="facebook"></i></a>
+                        <a href="#" class="social-icon glass"><i data-lucide="linkedin"></i></a>
+                        <a href="#" class="social-icon glass"><i data-lucide="github"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Repara+ Lda. Um projeto académico IPT. Mockup para fins de demonstração.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
+    </script>
+</body>
+</html>
